@@ -1,0 +1,7 @@
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\bin\Debug\ConnectToDataBase.exe.config
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\bin\Debug\ConnectToDataBase.exe
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\bin\Debug\ConnectToDataBase.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\obj\Debug\ConnectToDataBase.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\obj\Debug\ConnectToDataBase.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\obj\Debug\ConnectToDataBase.exe
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\ConnectToDataBase\obj\Debug\ConnectToDataBase.pdb
